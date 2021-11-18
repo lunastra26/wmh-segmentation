@@ -39,3 +39,5 @@ nibabel 2.3
 ### Citation
 If you use this CNN model in your work, please cite the following:
 Umapathy, L., G. G. Perez-Carrillo, M. B. Keerthivasan, J. A. Rosado-Toro, M. I. Altbach, B. Winegar, C. Weinkauf, A. Bilgin, and Alzheimer’s Disease Neuroimaging Initiative. "A Stacked Generalization of 3D Orthogonal Deep Learning Convolutional Neural Networks for Improved Detection of White Matter Hyperintensities in 3D FLAIR Images." American Journal of Neuroradiology, 2021 (http://doi.org/10.3174/ajnr.A6970).
+
+### Remarks: RESEARCH USE ONLY, NOT APPROVED FOR CLINICAL USE
